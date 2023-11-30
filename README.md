@@ -2,7 +2,7 @@
   <body>
     
 <h3> Made with ❤️ by TE DEVELOPERS </h3>
-    <img src="https://img.shields.io/github/stars/Shizothetechie/mdlogin-multiAuth?style=social"> 
+    <img src="https://img.shields.io/github/stars/DarkYasiya/mdlogin-multiAuth?style=social"> 
 <h5>Features </h5> 
 <li> Multi-Auth File Generator</li>
 <li> No Encryption </li>
