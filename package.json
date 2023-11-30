@@ -1,7 +1,7 @@
 {
   "name": "md-login",
   "version": "1.0.0",
-  "description": "Get Qr Code Baileys Multi Device",
+  "description": "Get Qr Code Baileys Multi Device.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
