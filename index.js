@@ -28,6 +28,6 @@ async function qr() {
 	conn.ev.on('creds.update', saveCreds)
 	conn.ev.on('messages.upsert', () => { })
 }
-qr()
+qr(
 }
 connect() 
