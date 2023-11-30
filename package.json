@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shizothetechie/mdlogin-multiAuth.git"
+    "url": "git+https://github.com/DarkYasiya/mdlogin-multiAuth.git"
   },
   "keywords": [
-    "sang-md",
+    "sakura-md",
     "Md-Login",
     "termux-whatsapp-bot",
     "whatsapp-bot",
@@ -29,9 +29,9 @@
   "author": "Shizo The Techie",
   "license": "GPL-3.0 License",
   "bugs": {
-    "url": "https://github.com/Shizothetechie/mdlogin-multiAuth/issues"
+    "url": "https://github.com/DarkYasiya/mdlogin-multiAuth/issues"
   },
-  "homepage": "https://github.com/Shizothetechie/mdlogin-multiAuth #readme",
+  "homepage": "https://github.com/DarkYasiya/mdlogin-multiAuth #readme",
   "dependencies": {
     "@adiwajshing/baileys": "latest",
     "qrcode-terminal": "^0.12.0"
